@@ -1,0 +1,7 @@
+flask
+flask-cors
+langchain
+openai
+pinecone-client
+PyMuPDF
+python-dotenv 
