@@ -1,7 +1,8 @@
 flask
 flask-cors
 langchain
+langchain-openai
 openai
 pinecone-client
 PyMuPDF
-python-dotenv 
+python-dotenv
